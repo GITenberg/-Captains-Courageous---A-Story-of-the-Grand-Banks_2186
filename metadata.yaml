@@ -1,0 +1,52 @@
+_repo: -Captains-Courageous---A-Story-of-the-Grand-Banks_2186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: "Captains Courageous is an 1897 novel, by Rudyard Kipling, that follows\
+  \ the adventures of fifteen-year-old Harvey Cheyne Jr., the spoiled son of a railroad\
+  \ tycoon, after he is saved from drowning by a Portuguese fisherman in the north\
+  \ Atlantic. The novel originally appeared as a serialisation in McClure's, beginning\
+  \ with the November 1896 edition.\nThe book's title comes from the ballad \"Mary\
+  \ Ambree\", which starts, \"When captains courageous, whom death could not daunt\"\
+  . Kipling had previously used the same title for an article on businessmen as the\
+  \ new adventurers, published in The Times of 23 November 1892.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2186'
+  wikidata: Q1035138
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grand Banks of Newfoundland -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Fishing boats -- Fiction'
+- !lcsh 'Saltwater fishing -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Teenage boys -- Fiction'
+- GITenberg
+title: '"Captains Courageous": A Story of the Grand Banks'
+url: http://www.gutenberg.org/ebooks/2186
+wikipedia:
+- https://fr.wikipedia.org/wiki/Capitaines_courageux,_une_histoire_du_banc_de_Terre-Neuve
+- https://sh.wikipedia.org/wiki/Captains_Courageous
+- https://sc.wikipedia.org/wiki/Captains_Courageous
+- https://de.wikipedia.org/wiki/Captains_Courageous
+- https://en.wikipedia.org/wiki/Captains_Courageous
+- https://it.wikipedia.org/wiki/Capitani_coraggiosi_(romanzo)
