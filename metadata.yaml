@@ -1,5 +1,8 @@
 _repo: -Captains-Courageous---A-Story-of-the-Grand-Banks_2186
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -20,6 +23,8 @@ description: "Captains Courageous is an 1897 novel, by Rudyard Kipling, that fol
   . Kipling had previously used the same title for an article on businessmen as the\
   \ new adventurers, published in The Times of 23 November 1892.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2186#-Captains-Courageous---A-Story-of-the-Grand-Banks
 gutenberg_issued: '2000-05-01'
 gutenberg_type: Text
 identifiers:
